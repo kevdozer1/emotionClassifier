@@ -1,4 +1,4 @@
-Various models are constructed with PyTorch and scikit-learn to organize BERT encoded textual data, VGGish encoded acoustic data, and ResNet encoded visual features into classified emotions using the IEMOCAP dataset.
+Various models are constructed with PyTorch and scikit-learn to organize BERT encoded textual features, VGGish encoded acoustic features, and ResNet encoded visual features into classified emotions using the IEMOCAP dataset.
 
 Models structured around GRUs and SVCs are compared empirically.
 
